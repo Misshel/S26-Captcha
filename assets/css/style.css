@@ -1,0 +1,12 @@
+img{
+  width: 100%;
+  height: 100%;
+}
+
+div.img{
+  display: inline-block;
+  width: 199px;
+  border: 1px solid;
+  height: 87px;
+  overflow: hidden;
+}
